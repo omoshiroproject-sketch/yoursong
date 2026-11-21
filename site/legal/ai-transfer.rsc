@@ -10,6 +10,6 @@
 8:["$","li",null,{"children":["$","a",null,{"href":"https://stripe.com/jp/privacy","target":"_blank","rel":"noreferrer","children":"Stripe プライバシーポリシー"}]}]
 9:["$","p",null,{"children":"当社は、送信範囲の最小化、アクセス制限、APIキーの秘密管理、通信の暗号化、保存期間の設定、委託先の契約・安全管理措置の確認等を行います。"}]
 a:["$","section",null,{"children":[["$","h2",null,{"children":"5. 入力時の注意と第三者の同意"}],["$","ul",null,{"children":[["$","li",null,{"children":"実名が不要な場合は、ニックネームまたは役割名を使用してください。"}],["$","li",null,{"children":"要配慮個人情報、カード番号、パスワード、マイナンバー等は入力しないでください。"}],["$","li",null,{"children":"友人・家族等の情報を入力する場合、その方に本説明を示し、AI事業者への提供を含む必要な同意を得てください。"}],["$","li",null,{"children":"既存の歌詞、許諾のない文章、特定歌手の声の模倣を求める情報は入力しないでください。"}]]}]]}]
-b:["$","aside",null,{"className":"legal-note warning","children":[["$","strong",null,{"children":"公開前の事業者確認"}],["$","p",null,{"children":"提供先、契約主体、データ保存地域、再委託先、安全管理措置は契約プランや設定で変わります。LINE連携、ホスティング、ストレージ、メール、Stripe、OpenAI、Anthropic、Sunoの実際の契約・設定に合わせて、この表を公開前および定期的に更新してください。"}]]}]
+b:null
 c:["$","nav",null,{"className":"legal-nav","aria-label":"法務ページ","children":[["$","$L6",null,{"href":"/legal/terms","children":"利用規約"}],["$","$L6",null,{"href":"/legal/privacy","children":"プライバシーポリシー"}],["$","$L6",null,{"href":"/legal/ai-transfer","children":"AI利用・外国移転"}],["$","$L6",null,{"href":"/legal/tokusho","children":"特定商取引法に基づく表記"}]]}]
 d:["$","footer",null,{"className":"legal-footer","children":[["$","span",null,{"children":"運営：株式会社OMOSHIRO PROJECT"}],["$","span",null,{"children":"© 2026 Your Song"}]]}]
